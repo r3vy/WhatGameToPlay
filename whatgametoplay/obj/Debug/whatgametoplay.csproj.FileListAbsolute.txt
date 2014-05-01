@@ -1,0 +1,9 @@
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\bin\Debug\whatgametoplay.exe.config
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.csprojResolveAssemblyReference.cache
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.Form1.resources
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.Properties.Resources.resources
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.csproj.GenerateResource.Cache
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\bin\Debug\whatgametoplay.exe
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\bin\Debug\whatgametoplay.pdb
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.exe
+c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.pdb
