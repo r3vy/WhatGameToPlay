@@ -7,3 +7,12 @@ c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametop
 c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\bin\Debug\whatgametoplay.pdb
 c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.exe
 c:\users\miguel\documents\visual studio 2013\Projects\whatgametoplay\whatgametoplay\obj\Debug\whatgametoplay.pdb
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\bin\Debug\whatgametoplay.exe.config
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\obj\Debug\whatgametoplay.exe
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\obj\Debug\whatgametoplay.pdb
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\bin\Debug\whatgametoplay.exe
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\bin\Debug\whatgametoplay.pdb
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\obj\Debug\whatgametoplay.csprojResolveAssemblyReference.cache
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\obj\Debug\whatgametoplay.Form1.resources
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\obj\Debug\whatgametoplay.Properties.Resources.resources
+C:\Users\r3vyt\Documents\GitHub\WhatGameToPlay\whatgametoplay\obj\Debug\whatgametoplay.csproj.GenerateResource.Cache
