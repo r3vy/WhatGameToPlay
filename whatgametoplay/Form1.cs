@@ -14,9 +14,7 @@ namespace whatgametoplay
 {
     public partial class Form1 : Form
     {
-        //Declare a List of Strings to be our database of games.
         List<string> gameNames = new List<string>();
-        //Store the applications filepath + the text file to hold our games names.
         string filePath = Application.StartupPath + "\\gameNames.txt";
 
         public Form1()
@@ -24,10 +22,7 @@ namespace whatgametoplay
             InitializeComponent();
             UpdateTextPosition();
             comboBox1.DropDownStyle = ComboBoxStyle.DropDownList;
-
-            /*Read our game name text file and add each line from the text file to our <List>String.
-            Also adding each line from text file to our drop down box. Everything in the file should be synced with the List
-             and our Combobox Items*/
+            
             using (StreamReader r = new StreamReader(filePath))
             {
                 string line;
@@ -46,6 +41,8 @@ namespace whatgametoplay
             //Tells user to add a game if empty list.
             if (gameNames.Count == 0)
                 label1.Text = "Please add a Game first!";
+            else if (gameNames.Count == 1)
+                label1.Text = gameNames[0];
             else
                 label1.Text = gameNames[rnd.Next(gameNames.Count)]; //Randomly pick a game between 0 and the number of items in the list.
         }
