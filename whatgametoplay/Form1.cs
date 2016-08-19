@@ -12,6 +12,7 @@ using System.Diagnostics;
 
 namespace whatgametoplay
 {
+    //This has committed.
     public partial class Form1 : Form
     {
         List<string> gameNames = new List<string>();
@@ -34,7 +35,7 @@ namespace whatgametoplay
             }
         }
 
-        //This is the Random Button. Intended to randomly pick a game from the <List>string.
+        //This is the Random Button.
         private void button1_Click(object sender, EventArgs e)
         {
             Random rnd = new Random();
@@ -87,7 +88,6 @@ namespace whatgametoplay
             StreamWriter file = new StreamWriter(filePath);
             gameNames.ForEach(file.WriteLine);
             file.Close();
-            //comboBox1.SelectedText = "";
         }
 
 
